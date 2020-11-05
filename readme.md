@@ -1,3 +1,10 @@
+### crash logs
+```sh
+/var/crash$ ll
+-rw-r-----  1  whoopsie 107795950 Nov  5 06:56 _opt_google_chrome_chrome.1000.crash
+```
+
+
 ### octave dependencies
 
 
